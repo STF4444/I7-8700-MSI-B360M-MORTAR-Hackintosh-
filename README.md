@@ -4,3 +4,5 @@
 ### 声音正常
 ### 网络正常
 ### 睡眠正常
+
+![](https://github.com/STF4444/I7-8700-MSI-B360M-MORTAR-Hackintosh-/blob/main/WechatIMG18.jpeg)>>>
