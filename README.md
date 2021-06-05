@@ -1,8 +1,23 @@
 # I7-8700-MSI B360M MORTAR-UHD630-Hackintosh
-## 安装bigsur11.2.3
-### 核显HDMI DP 输出正常
-### 声音正常
-### 网络正常
-### 睡眠正常
 
-![](https://github.com/STF4444/I7-8700-MSI-B360M-MORTAR-Hackintosh-/blob/main/WechatIMG18.jpeg)>>>
+## 引导版本 OC 6.8
+### 现可安装BIGSUR 11.2.3   如要安装11.3以上，请自行订制USB驱动，因为机箱不一样我就不把我的放上来了
+
+## 硬件配置
+
+| 配置 | 型号 |
+| ---- | ---- |
+| CPU | Intel i7 8700 |
+| 主板 | 微星 B360M MORTAR |
+| 显卡 | UHD 630 |
+| SSD | 三星 970 EVO  250GB |
+---
+## 功能
++ [x] 睡眠 唤醒
++ [x] 所有USB端口、USB3.0
++ [x] 独显免驱
++ [x] 板载声卡
++ [x] 板载网卡（需要手动设置）
++ [x] Airdrop（需要苹果网卡）
+
+##### 如果对你有用的话请打赏，1分也是爱呀
