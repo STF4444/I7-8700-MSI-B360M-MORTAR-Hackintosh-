@@ -23,6 +23,5 @@
 ![](https://github.com/STF4444/I7-8700-MSI-B360M-MORTAR-Hackintosh-/blob/main/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/WechatIMG13.jpg)
 ---
 #### 如果对你有用的话请打赏，1分也是爱呀
-| 微信 | 支付宝 |
-| --- | --- |
-| ![](https://github.com/STF4444/I7-8700-MSI-B360M-MORTAR-Hackintosh-/blob/main/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/WechatIMG12jpg) | |
+* 微信
+![](https://github.com/STF4444/I7-8700-MSI-B360M-MORTAR-Hackintosh-/blob/main/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/WechatIMG12jpg)
